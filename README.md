@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/raed-boussaa-340ab4183/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:raed.boussaa@etudiant-enit.utm.tn">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/raed8888">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -44,7 +44,7 @@ Actively seeking a **PFE internship in network, security, cloud or SOC environme
         <b>Tech:</b> GNS3, Suricata, Wazuh, Elastic/Kibana, SNMP, Nagios  
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/security-network-lab">
+        <a href="https://github.com/raed8888/security-network-lab">
           🔗 <b>View project</b>
         </a>
       </p>
@@ -71,24 +71,13 @@ Actively seeking a **PFE internship in network, security, cloud or SOC environme
         <b>Tech:</b> Python, Scapy, BPF filters  
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/network-sniffer">
+        <a href="https://github.com/raed8888/network-sniffer">
           🔗 <b>View project</b>
         </a>
       </p>
     </td>
 
-    <td width="50%" valign="top">
-      <h3>🖥️ Active Directory + Domain Controller Setup</h3>
-      <p>
-        Domain controller deployment using Lenovo ThinkSystem ST50v2 with centralized resource control & secure LAN configuration.<br/>
-        <b>Tech:</b> Windows Server, AD DS, DNS, DHCP, GPO, VLANs  
-      </p>
-      <p>
-        <a href="https://github.com/YOUR_USERNAME/ad-domain-controller-lab">
-          🔗 <b>View project</b>
-        </a>
-      </p>
-    </td>
+   
   </tr>
 </table>
 
@@ -140,8 +129,8 @@ Actively seeking a **PFE internship in network, security, cloud or SOC environme
 
 ## 📫 Contact
 
-- 📧 **YOUR_EMAIL**  
-- 🔗 **LinkedIn:** YOUR_LINKEDIN  
+- 📧 **YOUR_EMAIL**  raed.boussaa@etudiant-enit.utm.tn
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/raed-boussaa-340ab4183/
 - 💻 **GitHub:** https://github.com/YOUR_USERNAME
 
 
