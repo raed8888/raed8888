@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Telecommunications Engineering Student @ ENIT</b><br/>
-  Passionate about <b>network security</b>, <b>SOC operations</b>, and <bsoftware & system engineering</b>.
+  Passionate about <b>network security</b>, <b>SOC operations</b>, and <b>software & system engineering</b>.
 </p>
 
 <p align="center">
@@ -63,22 +63,7 @@ Actively seeking a **PFE internship in network, security, cloud or SOC environme
     </td>
   </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Mini Network Sniffer</h3>
-      <p>
-        Packet sniffer built with Scapy supporting IPv4/TCP/UDP/ICMP capture, metadata extraction and CSV/PCAP export.<br/>
-        <b>Tech:</b> Python, Scapy, BPF filters  
-      </p>
-      <p>
-        <a href="https://github.com/raed8888/network-sniffer">
-          🔗 <b>View project</b>
-        </a>
-      </p>
-    </td>
-
-   
-  </tr>
+ 
 </table>
 
 ---
